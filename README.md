@@ -1,2 +1,2 @@
 # pricing-plan
-In this project , i have create a pricing plan where there are three types of plan Basic , Enterprise and Pro.
+In this project, I have created a pricing plan with three tiers: Basic, Pro, and Enterprise.
